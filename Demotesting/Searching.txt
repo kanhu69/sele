@@ -34,5 +34,13 @@ public class Search_Element
         {
             System.out.println("Element not found");
         }
+
+        }
+        ifese(flag == 1)
+        {
+            System.out.println("Element found at position:"+(i + 1));
+        }
+
+
     }
 }
